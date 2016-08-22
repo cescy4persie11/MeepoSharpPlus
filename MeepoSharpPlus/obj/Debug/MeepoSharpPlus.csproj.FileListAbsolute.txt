@@ -1,0 +1,17 @@
+c:\users\feiyang\documents\visual studio 2015\Projects\MeepoSharpPlus\MeepoSharpPlus\bin\Debug\MeepoSharpPlus.exe.config
+c:\users\feiyang\documents\visual studio 2015\Projects\MeepoSharpPlus\MeepoSharpPlus\bin\Debug\MeepoSharpPlus.exe
+c:\users\feiyang\documents\visual studio 2015\Projects\MeepoSharpPlus\MeepoSharpPlus\bin\Debug\MeepoSharpPlus.pdb
+c:\users\feiyang\documents\visual studio 2015\Projects\MeepoSharpPlus\MeepoSharpPlus\bin\Debug\Ensage.Common.dll
+c:\users\feiyang\documents\visual studio 2015\Projects\MeepoSharpPlus\MeepoSharpPlus\bin\Debug\Ensage.dll
+c:\users\feiyang\documents\visual studio 2015\Projects\MeepoSharpPlus\MeepoSharpPlus\bin\Debug\LeagueSharp.Common.dll
+c:\users\feiyang\documents\visual studio 2015\Projects\MeepoSharpPlus\MeepoSharpPlus\bin\Debug\SharpDX.dll
+c:\users\feiyang\documents\visual studio 2015\Projects\MeepoSharpPlus\MeepoSharpPlus\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\feiyang\documents\visual studio 2015\Projects\MeepoSharpPlus\MeepoSharpPlus\bin\Debug\clipper_library.dll
+c:\users\feiyang\documents\visual studio 2015\Projects\MeepoSharpPlus\MeepoSharpPlus\obj\Debug\MeepoSharpPlus.exe
+c:\users\feiyang\documents\visual studio 2015\Projects\MeepoSharpPlus\MeepoSharpPlus\obj\Debug\MeepoSharpPlus.pdb
+c:\users\feiyang\documents\visual studio 2015\Projects\MeepoSharpPlus\MeepoSharpPlus\bin\Debug\Newtonsoft.Json.dll
+c:\users\feiyang\documents\visual studio 2015\Projects\MeepoSharpPlus\MeepoSharpPlus\bin\Debug\LeagueSharp.Data.dll
+c:\users\feiyang\documents\visual studio 2015\Projects\MeepoSharpPlus\MeepoSharpPlus\bin\Debug\Ensage.Common.pdb
+c:\users\feiyang\documents\visual studio 2015\Projects\MeepoSharpPlus\MeepoSharpPlus\bin\Debug\LeagueSharp.Common.pdb
+c:\users\feiyang\documents\visual studio 2015\Projects\MeepoSharpPlus\MeepoSharpPlus\bin\Debug\LeagueSharp.Data.pdb
+c:\users\feiyang\documents\visual studio 2015\Projects\MeepoSharpPlus\MeepoSharpPlus\obj\Debug\MeepoSharpPlus.csprojResolveAssemblyReference.cache
